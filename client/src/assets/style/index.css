@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.no-decor { text-decoration: none; }
+
+.btn-hover {
+    transition: all 0.3s;
+}
+  
+.btn-hover:hover {
+    cursor: pointer;
+    background-color: rgba(247, 249, 250, 0.402);
+}
+
+.button-u {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: white !important;
+    color: #2c2c2c;
+    border-radius: 3px !important;
+    font-weight: 600;
+    font-size: 13px !important;
+    padding: 5px 10px;
+    transition: all 0.3s;
+}
+
+.button-u:hover {
+    color: white !important;
+    background-color: rgb(23, 83, 166) !important;
+  }
+  
+  .table-th-cell {
+    padding: 4px 10px !important;
+    border-right: #9ca1aa 1px solid;
+  }
+  
+  .table-cell {
+    padding: 4px 10px !important;
+    border-bottom: #e7eaef 1px solid;
+  }
+
+  .hover-cursor { cursor: pointer; }
+
+  .input-field-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .input-field {
+    padding: 5px 10px;
+    background-color: white;
+    border-radius: 4px;
+    border: #d6d9e0 1px solid;
+    font-size: 14px;
+  }
+  
+  .input-field-outline {
+    padding: 5px 15px;
+    background-color: white;
+    border-radius: 4px;
+    border: #d6d9e0 1px solid;
+    padding-left: 40px; 
+    font-size: 14px;
+  }
+  
+  input:focus {
+    border: #399bdc 1px solid;
+    outline: none;
+    box-shadow: 0px 0px 1px 1px #9cd9ff inset;
+  }
+  
+  .input-field-icon {
+    position: absolute;
+    left: 15px;
+  }
+  
+  .input-field-icon-right {
+    position: absolute;
+    right: 15px;
+  }
+  
+  .input-inner-shadow {
+    box-shadow: 1px 2px 2px #a4a4a4 inset;
+  }

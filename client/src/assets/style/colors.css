@@ -1,0 +1,165 @@
+.fg-sp-primary { color: rgb(31, 109, 192) !important; }
+
+.bg-sp-primary { background-color: rgb(43, 171, 240) !important; }
+
+.bg-dark-500 { background-color: rgb(78, 80, 82) !important; }
+
+.bg-gray-300 { background-color: rgb(146, 151, 153) !important; }
+
+.bg-gray-200 { background-color: rgb(165, 175, 179) !important; }
+
+.bg-gray { background-color: rgb(202, 212, 217) !important; }
+
+.bg-gray-100 { background-color: rgb(175, 197, 208) !important; }
+
+.bg-red-25 { background-color: rgb(255, 237, 237) !important; }
+
+.bg-gray-50 { background-color: rgb(218, 230, 234) !important; }
+
+.bg-brown-50 { background-color: rgb(235, 229, 223) !important; }
+
+.bg-neutral { background-color: rgb(237, 242, 244) !important; }
+
+.bg-yellow-50 { background-color: rgb(255, 251, 226) !important; }
+
+.bg-blue-50 { background-color: rgb(228, 248, 255) !important; }
+
+.bg-red-50 { background-color: rgb(255, 218, 218) !important; }
+
+.bg-orange-50 { background-color: rgb(255, 242, 224) !important; }
+
+.bg-green-50 { background-color: rgb(230, 255, 235) !important; }
+
+.bg-purple-50 { background-color: rgb(246, 226, 255) !important; }
+
+.bg-pink-50 { background-color: rgb(255, 227, 250) !important; }
+
+.bg-yellow-100 { background-color: rgb(248, 240, 195) !important; }
+
+.bg-blue-100 { background-color: rgb(195, 235, 248) !important; }
+
+.bg-red-100 { background-color: rgb(248, 195, 195) !important; }
+
+.bg-orange-100 { background-color: rgb(248, 225, 195) !important; }
+
+.bg-green-100 { background-color: rgb(195, 248, 206) !important; }
+
+.bg-purple-100 { background-color: rgb(231, 195, 248) !important; }
+
+.bg-pink-100 { background-color: rgb(248, 195, 239) !important; }
+
+.bg-lime-200 { background-color: rgb(218, 255, 117) !important; }
+
+.bg-yellow-200 { background-color: rgb(255, 240, 154) !important; }
+
+.bg-blue-200 { background-color: rgb(162, 232, 255) !important; }
+
+.bg-red-200 { background-color: rgb(255, 159, 175) !important; }
+
+.bg-orange-200 { background-color: rgb(255, 214, 160) !important; }
+
+.bg-green-200 { background-color: rgb(189, 255, 161) !important; }
+
+.bg-purple-200 { background-color: rgb(229, 173, 255) !important; }
+
+.bg-pink-200 { background-color: rgb(255, 168, 241) !important; }
+
+.bg-lime-400 { background-color: rgb(187, 255, 0) !important; }
+
+.bg-yellow-400 { background-color: rgb(235, 204, 32) !important; }
+
+.bg-blue-400 { background-color: rgb(41, 202, 255) !important; }
+
+.bg-red-400 { background-color: rgb(255, 58, 58) !important; }
+
+.bg-green-400 { background-color: rgb(29, 221, 67) !important; }
+
+.bg-purple-400 {background-color: #9769ba !important; }
+
+.bg-pink-400 { background-color: rgb(255, 113, 231) !important; }
+
+.bg-orange-400 { background-color: rgb(255, 149, 1) !important; }
+
+.bg-blue-500 { background-color: rgb(0, 151, 220) !important; }
+
+.bg-blue-600 { background-color: rgb(0, 137, 201) !important; }
+
+.bg-green-600 { background-color: rgb(20, 196, 55) !important; }
+
+.bg-red-250 { background-color: rgb(255, 113, 144) !important; }
+
+.bg-lime-700 { background-color: rgb(156, 213, 0) !important; }
+
+.bg-yellow-700 { background-color: rgb(208, 177, 1) !important; }
+
+.bg-blue-700 { background-color: rgb(0, 114, 167) !important; }
+
+.bg-red-700 { background-color: rgb(196, 43, 43) !important; }
+
+.bg-green-700 { background-color: rgb(24, 168, 53) !important; }
+
+.bg-purple-700 { background-color: rgb(145, 63, 184) !important; }
+
+.bg-pink-700 { background-color: rgb(184, 81, 167) !important; }
+
+.bg-blue-900 { background-color: #0f3d5b !important; }
+
+.fg-dark { color: rgb(67, 67, 67) !important; }
+
+.fg-dark-200 { color: rgb(99, 99, 99) !important; }
+
+.fg-gray { color: rgb(131, 132, 133) !important; }
+
+.fg-gray-50 { color: rgb(194, 194, 194) !important; }
+
+.fg-gray-100 { color: rgb(167, 167, 167) !important; }
+
+.fg-blue-100 { color: rgb(102, 204, 255) !important; }
+
+.fg-green-100 { color: rgb(151, 255, 128) !important; }
+
+.fg-blue-200 { color: rgb(63, 191, 255) !important; }
+
+.fg-green-200 { color: rgb(118, 246, 89) !important; }
+
+.fg-yellow-300 { color: rgb(243, 175, 18) !important; }
+
+.fg-orange-300 { color: rgb(243, 108, 18) !important; }
+
+.fg-blue-300 { color: rgb(25, 172, 245) !important; }
+
+.fg-red-300 { color: rgb(234, 39, 39) !important; }
+
+.fg-green-300 { color: rgb(85, 221, 55) !important; }
+
+.fg-purple-300 { color: rgb(156, 57, 232) !important; }
+
+.fg-pink-300 { color: rgb(219, 76, 226) !important; }
+
+.fg-yellow-500 { color: rgb(191, 134, 0) !important; }
+
+.fg-orange-500 { color: rgb(206, 100, 0) !important; }
+
+.fg-blue-500 { color: rgb(31, 84, 176) !important; }
+
+.fg-red-500 { color: rgb(189, 4, 4) !important; }
+
+.fg-green-500 { color: rgb(46, 156, 21) !important; }
+
+.fg-purple-500 { color: rgb(98, 16, 160) !important; }
+
+.fg-pink-500 { color: rgb(143, 21, 150) !important; }
+
+.fg-yellow-700 { color: rgb(143, 100, 0) !important; }
+
+.fg-orange-700 { color: rgb(143, 60, 0) !important; }
+
+.fg-blue-700 { color: rgb(20, 56, 116) !important; }
+
+.fg-red-700 { color: rgb(143, 0, 0) !important; }
+
+.fg-green-700 { color: rgb(30, 102, 13) !important; }
+
+.fg-purple-700 { color: rgb(69, 10, 114) !important; }
+
+.fg-pink-700 { color: rgb(91, 12, 95) !important; }
